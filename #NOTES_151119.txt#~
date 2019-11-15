@@ -12,9 +12,11 @@ TO DO :
 4- Installer "Chrome"
    # DONE #
    
-5- Verifier les versions Pythons
+5- Répondre aux quetions "Quel est le pb? A quoi ça sert?" pour chaque appli
+
+6- Verifier les versions Pythons
    # DONE #
    --> Python : 2.7.15+
    --> Python3 : 3.6.8
 
-6- Push to GIT repository (à créer!) "environement de travail" once it's done
+7- Push to GIT repository (à créer!) "environement de travail" once it's done
