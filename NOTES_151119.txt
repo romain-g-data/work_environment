@@ -9,6 +9,8 @@ TO DO :
    # DONE #
    
 3- Qu'est-ce que "Jupyter notebook"?
+   --> Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
+   # DONE #
 
 4- Installer "Chrome"
    # DONE #
