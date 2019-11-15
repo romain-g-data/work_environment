@@ -21,5 +21,6 @@ TO DO :
    --> Python3 : 3.6.8
 
 6- Push to GIT repository (à créer!) "environement de travail" once it's done
-
-7- Find a way to share testing criteria with the rest of th egroup on Discord
+   # DONE #
+7- Find a way to share testing criteria with the rest of the group on Discord
+   # DONE #
