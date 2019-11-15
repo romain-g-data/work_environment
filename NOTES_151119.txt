@@ -6,7 +6,8 @@ TO DO :
    ( note : lancer en tapant "code" en terminal )
    
 2- Créer un compte sur "google collab", "geogebra", "trello"
-
+   # DONE #
+   
 3- Qu'est-ce que "Jupyter notebook"?
 
 4- Installer "Chrome"
@@ -18,3 +19,5 @@ TO DO :
    --> Python3 : 3.6.8
 
 6- Push to GIT repository (à créer!) "environement de travail" once it's done
+
+7- Find a way to share testing criteria with the rest of th egroup on Discord
