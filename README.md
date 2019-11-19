@@ -1,8 +1,4 @@
-### This repository has been created in order to follow up with my projetcs
+### THIS IS THE WORK ENVIRONMENT REPOSITORY
 
-In the file name the date of job appears as follows "ddmmyy"
-
-Job done --> label # DONE #
-
-Job not done --> no label
+You can find here reporting and/or technical tips on installations, commands, etc.
 
