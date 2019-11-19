@@ -28,5 +28,9 @@ Tâche 2
    [A] Installer MySQL
    [A] Login joint gmail : devdatap7@gmail.com
        	     	   password : devdata2020
-   [A] Download jeux_video.sql from Drive		   
+   [A] Download jeux_video.sql from Drive
+   [A] Load on MySQL : CREATE DATABASE [name of database], USE [name of database], source [directory of .sql file]
+   [A] Practice SQL queries by answering 10 questions given by Rafic
+   [A] Create account on Mode.com, load test databases
+   [ECA] Continue practicing    	       	       
 		   		   

@@ -1,0 +1,10 @@
+Commands to remember: Linux and GIT
+
+- to check version of package :  [name of package] --version
+- emacs : C-w to CUT text
+  	  M-w to COPY text (M=alt)
+	  C-y to PASTE text
+	  C-space to MARK START OF BLOCK
+	  Shift-arrow to SELECT 
+
+

@@ -1,0 +1,9 @@
+How to create repository locally without the use of github.com:
+
+1- Create SSH key
+2- Link it to my github account --> https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
+4- ssh -T git@github.com to test the SSH connection to github account
+5- sudo apt-get update and upgrade
+6- sudo snap install hub --classic
+7- IMPPORTANT NOTE !! update and upgrade after each installation of package !!
+8- steps to create repository: git init, git add ., git commit, hub create [name of repo].git, git push origin master
