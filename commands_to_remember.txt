@@ -1,4 +1,4 @@
-Commands to remember: Linux and GIT
+Commands to remember: Linux, GIT, PYHTON
 
 - to check version of package :  [name of package] --version
 - emacs : C-w to CUT text
@@ -6,5 +6,10 @@ Commands to remember: Linux and GIT
 	  C-y to PASTE text
 	  C-space to MARK START OF BLOCK
 	  Shift-arrow to SELECT 
+- python : if test1 :
+  	      instruction1
+	   elif test2 :
+	      instruction2
+
 
 
